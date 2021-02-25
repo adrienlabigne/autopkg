@@ -23,7 +23,7 @@
 				<key>filename</key>
 				<string>%NAME%.dmg</string>
 				<key>url</key>
-				<string>https://trapezoid-prod.s3.amazonaws.com/releases/builds/1.28.2/official/mac/InVision%20Studio-1.28.2.dmg?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAJ4FGZNZJJINNP3FA%2F20210225%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20210225T133809Z&amp;X-Amz-Expires=2700&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=fc39bbb8d40a553ad49f81ff583071946cd6572648ae487ef3c2130419a91032</string>
+				<string>https://mosyle.heaj.be/Autopkg/invision/latest/InVisionStudio.dmg</string>
 			</dict>
 			<key>Processor</key>
 			<string>URLDownloader</string>
